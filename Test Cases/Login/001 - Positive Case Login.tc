@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with valid email and password</description>
+   <name>001 - Positive Case Login</name>
+   <tag>positive</tag>
+   <comment></comment>
+   <testCaseGuid>8443ffaa-454e-4e6d-bf39-0bbb43fea42d</testCaseGuid>
+</TestCaseEntity>
