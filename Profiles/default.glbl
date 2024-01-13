@@ -16,17 +16,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Valid Password</description>
-      <initValue>'P@ssword123'</initValue>
+      <initValue>'MHSUC33hkPnBWRnjFBNCPA=='</initValue>
       <name>password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Invalid email</description>
-      <initValue>'wrongemailasd@mail.com'</initValue>
+      <initValue>'galihwrong123sdajsdiajsidjini@gmail.com'</initValue>
       <name>wEmail</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Invalid password</description>
-      <initValue>'password123'</initValue>
+      <initValue>'XynGsayP33c5LuhrbvHREA=='</initValue>
       <name>wPassword</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
