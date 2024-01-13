@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Base url</description>
+      <initValue>'https://www.facebook.com/'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid email</description>
+      <initValue>'u52256503@gmail.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid Password</description>
+      <initValue>'P@ssword123'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Invalid email</description>
+      <initValue>'wrongemailasd@mail.com'</initValue>
+      <name>wEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Invalid password</description>
+      <initValue>'password123'</initValue>
+      <name>wPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
